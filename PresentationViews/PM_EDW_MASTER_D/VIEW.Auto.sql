@@ -2,6 +2,5 @@
 
 */
 
-
-create or replace view p2 as 
-select * from Test1;
+create or replace view abc as 
+select * from Test2;
