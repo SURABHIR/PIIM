@@ -1,4 +1,4 @@
 
 create or replace view TEST as
-select * from  test1;
+ select * from  test;
 
